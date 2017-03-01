@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="acc">帐号：</string>
+    <string name="pwd">密码：</string>
+    <string name="login">登陆</string>
+    <string name="welcome">欢迎来到幸福家园！</string>
+</resources>

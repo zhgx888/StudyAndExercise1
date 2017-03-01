@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplicationo.iml" filepath="$PROJECT_DIR$/MyApplicationo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adapters/adapters.iml" filepath="$PROJECT_DIR$/adapters/adapters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animation/animation.iml" filepath="$PROJECT_DIR$/animation/animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assetsmy/assetsmy.iml" filepath="$PROJECT_DIR$/assetsmy/assetsmy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bank/bank.iml" filepath="$PROJECT_DIR$/bank/bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contentprovidersdemo/contentprovidersdemo.iml" filepath="$PROJECT_DIR$/contentprovidersdemo/contentprovidersdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dialogs/dialogs.iml" filepath="$PROJECT_DIR$/dialogs/dialogs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/expandablelistview/expandablelistview.iml" filepath="$PROJECT_DIR$/expandablelistview/expandablelistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gridview/gridview.iml" filepath="$PROJECT_DIR$/gridview/gridview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intent/intent.iml" filepath="$PROJECT_DIR$/intent/intent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jisuanqi/jisuanqi.iml" filepath="$PROJECT_DIR$/jisuanqi/jisuanqi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jump/jump.iml" filepath="$PROJECT_DIR$/jump/jump.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login/login.iml" filepath="$PROJECT_DIR$/login/login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newsclienttest/newsclienttest.iml" filepath="$PROJECT_DIR$/newsclienttest/newsclienttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phonebook/phonebook.iml" filepath="$PROJECT_DIR$/phonebook/phonebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qq/qq.iml" filepath="$PROJECT_DIR$/qq/qq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spinner/spinner.iml" filepath="$PROJECT_DIR$/spinner/spinner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlitepractice/sqlitepractice.iml" filepath="$PROJECT_DIR$/sqlitepractice/sqlitepractice.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@mipmap/dengguang1"
+        android:duration="300" />
+    <item
+        android:drawable="@mipmap/dengguang2"
+        android:duration="300" />
+    <item
+        android:drawable="@mipmap/dengguang3"
+        android:duration="300" />
+    <item
+        android:drawable="@mipmap/dengguang4"
+        android:duration="300" />
+</animation-list>

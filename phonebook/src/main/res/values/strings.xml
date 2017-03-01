@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">超级通讯册</string>
+    <string name="housekeeper">手机管家</string>
+    <string name="phoneSpeedGo">手机加速</string>
+    <string name="softwareManagement">软件管理</string>
+    <string name="phoneTest">手机检测</string>
+    <string name="communicationBook">通讯大全</string>
+    <string name="ileManagement">文件管理</string>
+    <string name="clearGarbage">垃圾清理</string>
+
+
+    <string name="name">name</string>
+    <string name="number">number</string>
+    <string name="home_four">2</string>
+    <string name="one">1</string>
+    <string name="margin_weight">1</string>
+    <string name="num_one">1</string>
+    <string name="num_two">2</string>
+    <string name="num_six">6</string>
+
+</resources>

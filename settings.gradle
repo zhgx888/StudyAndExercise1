@@ -1,0 +1,1 @@
+include ':bank', ':jisuanqi', ':qq', ':login', ':intent', ':adapters', ':spinner', ':gridview', ':expandablelistview', ':animation', ':assetsmy', ':sqlitepractice', ':phonebook', ':contentprovidersdemo', ':dialogs', ':jump', ':newsclienttest'

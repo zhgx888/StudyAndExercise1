@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\Program Files\Android\Android Studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/adapters" />
+            <option value="$PROJECT_DIR$/animation" />
+            <option value="$PROJECT_DIR$/assetsmy" />
+            <option value="$PROJECT_DIR$/bank" />
+            <option value="$PROJECT_DIR$/contentprovidersdemo" />
+            <option value="$PROJECT_DIR$/dialogs" />
+            <option value="$PROJECT_DIR$/expandablelistview" />
+            <option value="$PROJECT_DIR$/gridview" />
+            <option value="$PROJECT_DIR$/intent" />
+            <option value="$PROJECT_DIR$/jisuanqi" />
+            <option value="$PROJECT_DIR$/jump" />
+            <option value="$PROJECT_DIR$/login" />
+            <option value="$PROJECT_DIR$/newsclienttest" />
+            <option value="$PROJECT_DIR$/phonebook" />
+            <option value="$PROJECT_DIR$/qq" />
+            <option value="$PROJECT_DIR$/spinner" />
+            <option value="$PROJECT_DIR$/sqlitepractice" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="horizontal"
+    android:padding="@dimen/activity_margin_grid_padding">
+
+    <TextView
+        android:id="@+id/txt_butimg"
+        android:layout_width="@dimen/activity_margin_grid_txt_width"
+        android:layout_height="@dimen/activity_margin_grid_txt_height"
+        android:background="@mipmap/txtback"
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/activity_margin_grid_txt_paddingLeft"
+        android:textSize="@dimen/activity_margin_grid_txt_size"/>
+</LinearLayout>

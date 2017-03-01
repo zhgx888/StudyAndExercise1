@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_assets"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/tv_write"
+            android:layout_width="@dimen/activity_margin_width"
+            android:layout_weight="@string/margin_weight"
+            android:layout_height="@dimen/activity_margin_txt_height"
+            android:maxLines="@string/one"
+            android:gravity="center_vertical"
+            android:text="@string/name"
+            android:textSize="@dimen/activity_margin_list_txt_size"/>
+        <TextView
+            android:id="@+id/tv_write1"
+            android:layout_width="@dimen/activity_margin_width"
+            android:layout_weight="@string/margin_weight"
+            android:layout_height="@dimen/activity_margin_txt_height"
+            android:maxLines="@string/one"
+            android:gravity="center_vertical"
+            android:text="@string/number"
+            android:textSize="@dimen/activity_margin_list_txt_size"/>
+    </LinearLayout>
+    <ListView
+        android:id="@+id/list_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </ListView>
+
+</LinearLayout>

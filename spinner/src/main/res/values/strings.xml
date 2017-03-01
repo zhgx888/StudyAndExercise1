@@ -1,0 +1,19 @@
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Hello_Wolrd</string>
+    <string name="back">返回</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="input_username">请输入用户名</string>
+    <string name="input_password">请输入密码</string>
+    <string name="rem_password">记住密码</string>
+    <string name="login">登录</string>
+    <string name="array_lv">数组列表</string>
+    <string name="simple1_lv">简单列表1</string>
+    <string name="simple2_lv">简单列表2</string>
+    <string name="madapter_lv">自定义列表</string>
+    <string name="grid_lst">网格用例</string>
+    <string name="spinner_lst">下拉列表</string>
+    <string name="tip">请选择喜欢的图书</string>
+    <string name="expand_lst">扩展列表</string>
+    <string name="news_lst">新闻列表</string>
+</resources>

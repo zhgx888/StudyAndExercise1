@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="javas">
+        <item>java基础</item>
+        <item>java企业级</item>
+        <item>Android</item>
+    </string-array>
+</resources>

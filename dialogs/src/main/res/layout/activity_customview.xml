@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <com.example.dialogs.DrawView
+        android:id="@+id/drawView"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_centerInParent="true"
+        android:background="@color/colorPrimaryDark"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/txt_handmsg"
+        android:layout_width="190dp"
+        android:layout_height="190dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/home_drawview_background"
+        android:gravity="center_horizontal"
+        android:paddingTop="50dp"
+        android:textSize="50sp"/>
+
+</RelativeLayout>

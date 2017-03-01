@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@mipmap/huochairen1"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/huochairen2"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/huochairen3"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/huochairen4"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/huochairen5"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/huochairen6"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/huochairen7"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/huochairen8"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/huochairen9"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/huochairen10"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/huochairen11"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/huochairen12"
+        android:duration="200" />
+</animation-list>

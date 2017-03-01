@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_add"
+        android:icon="@mipmap/ic_launcher"
+        android:orderInCategory="1"
+        android:title="添加"
+        android:menuCategory="container"/>
+    <item
+        android:id="@+id/menu_back"
+        android:icon="@mipmap/ic_launcher"
+        android:orderInCategory="2"
+        android:title="返回"
+        android:menuCategory="alternative"/>
+    <item
+        android:id="@+id/menu_desc"
+        android:orderInCategory="3"
+        android:title="确定"
+        android:menuCategory="system"/>
+    <item
+        android:id="@+id/menu_delete"
+        android:orderInCategory="4"
+        android:title="清除"
+        android:menuCategory="secondary"/>
+    <group
+        android:id="@+id/group"
+        android:checkableBehavior="all"
+        android:enabled="true"
+        android:menuCategory="alternative"
+        android:orderInCategory="12"
+        android:visible="true"/>
+</menu>
